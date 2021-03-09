@@ -88,7 +88,7 @@ const config: MenuEntry[] = [
   {
     label: 'Audit by TechRate',
     icon: 'AuditIcon',
-    href: '#',
+    href: 'https://drmario.finance/audit.pdf',
   }
   // {
   //   label: 'Partnerships/IFO',
